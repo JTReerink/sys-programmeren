@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JaapReerink\\source\\repos\\Les4\\Les4\\Les4.csproj",
+      "projectUniqueName": "C:\\Users\\JaapReerink\\Documents\\Media College\\Jaar 2\\SYS-programmeren\\Les4\\Les4\\Les4\\Les4.csproj",
       "projectName": "Les4",
-      "projectPath": "C:\\Users\\JaapReerink\\source\\repos\\Les4\\Les4\\Les4.csproj",
+      "projectPath": "C:\\Users\\JaapReerink\\Documents\\Media College\\Jaar 2\\SYS-programmeren\\Les4\\Les4\\Les4\\Les4.csproj",
       "packagesPath": "C:\\Users\\JaapReerink\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JaapReerink\\source\\repos\\Les4\\Les4\\obj\\",
+      "outputPath": "C:\\Users\\JaapReerink\\Documents\\Media College\\Jaar 2\\SYS-programmeren\\Les4\\Les4\\Les4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JaapReerink\\AppData\\Roaming\\NuGet\\NuGet.Config",

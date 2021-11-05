@@ -22,8 +22,8 @@ namespace Les3
         {
             this.x = x;
             this.y = y;
-            this.x = size;
-            this.y = size;
+            width = size;
+            height = size;
         }
 
         public Rectangle(int width, int height)
@@ -33,8 +33,8 @@ namespace Les3
         }
         public Rectangle(int size)
         {
-            this.x = size;
-            this.y = size;
+            width = size;
+            height = size;
         }
 
         public void MoveTo(int x,int y)

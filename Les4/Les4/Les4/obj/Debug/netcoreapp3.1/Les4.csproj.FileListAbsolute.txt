@@ -1,0 +1,14 @@
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.exe
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.deps.json
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.runtimeconfig.json
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.runtimeconfig.dev.json
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.dll
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\bin\Debug\netcoreapp3.1\Les4.pdb
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.csproj.AssemblyReference.cache
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.AssemblyInfoInputs.cache
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.AssemblyInfo.cs
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.csproj.CoreCompileInputs.cache
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.dll
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.pdb
+C:\Users\JaapReerink\Documents\Media College\Jaar 2\SYS-programmeren\Les4\Les4\Les4\obj\Debug\netcoreapp3.1\Les4.genruntimeconfig.cache
